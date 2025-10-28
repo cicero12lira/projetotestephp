@@ -1,7 +1,7 @@
 <?php
-$host = "localhost";
-$user = "root";
-$password = "";
+$host = "testeserverphpgdl.mysql.database.azure.com";
+$user = "userphp";
+$password = "C144@top";
 $dbname = "teste";
 
 // Criar conexão
